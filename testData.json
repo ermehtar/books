@@ -1,0 +1,39 @@
+{
+	"books": [
+		{
+			"id": 1,
+			"category": "Fiction",
+			"title": "The Great Adventure",
+			"description": "An epic tale of adventure and discovery.",
+			"author": "John Smith"
+		},
+		{
+			"id": 2,
+			"category": "Science",
+			"title": "The Cosmos Explained",
+			"description": "A deep dive into the mysteries of the universe.",
+			"author": "Jane Doe"
+		},
+		{
+			"id": 3,
+			"category": "History",
+			"title": "The Ancient World",
+			"description": "A journey through ancient civilizations.",
+			"author": "Emily Johnson"
+		},
+		{
+			"id": 4,
+			"category": "Fantasy",
+			"title": "Dragons and Magic",
+			"description": "A magical story of dragons and wizards.",
+			"author": "Robert Brown"
+		},
+		{
+			"id": 5,
+			"category": "Mystery",
+			"title": "The Hidden Truth",
+			"description": "A thrilling mystery that keeps you guessing.",
+			"author": "Alice Green"
+		}
+	]
+}
